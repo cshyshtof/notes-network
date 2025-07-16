@@ -19,3 +19,6 @@ actions:
 - Concept
 	- ICMP sends an alphabet as a payload
 
+---
+
+![[icmp-header.png]]
