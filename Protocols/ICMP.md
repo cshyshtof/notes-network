@@ -21,4 +21,4 @@ actions:
 
 ---
 
-![[icmp-header.png]]
+![](_Media/icmp-header.png)

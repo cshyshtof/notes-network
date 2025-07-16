@@ -27,4 +27,4 @@ actions:
 
 ---
 
-![[udp-header.png]]
+![](_Media/udp-header.png)
